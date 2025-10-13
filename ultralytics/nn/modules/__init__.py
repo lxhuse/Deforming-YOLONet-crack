@@ -69,13 +69,13 @@ from .conv import (
     ConvTranspose,
     DWConv,
     DWConvTranspose2d,
+    DySnakeConv,
     Focus,
     GhostConv,
     Index,
     LightConv,
     RepConv,
     SpatialAttention,
-    DySnakeConv,
 )
 from .head import (
     OBB,
